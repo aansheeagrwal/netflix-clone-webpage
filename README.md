@@ -28,11 +28,11 @@ You can access the live demo of this project at:
 2. Open the index.html file in your browser to view the project.
 
 🔧Future Improvements
->> Add animations or transitions.
->> Implement backend authentication for user login.
->> Add more content like movies, TV shows, and personalization features.
->> Optimize images for faster loading.
->> Create a fully functional homepage with dynamic content using JavaScript.
+1. Add animations or transitions.
+2. Implement backend authentication for user login.
+3. Add more content like movies, TV shows, and personalization features.
+4. Optimize images for faster loading.
+5. Create a fully functional homepage with dynamic content using JavaScript.
 
 
 🤝 Contributing
