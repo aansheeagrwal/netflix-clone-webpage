@@ -4,7 +4,7 @@ This is a simple Netflix clone built using HTML and CSS. The webpage mimics the 
 
 ## 🌐 Live Demo
 You can access the live demo of this project at:  
-👉 [Live Demo on Netlify]
+👉 [Live Demo on Netlify](https://eloquent-cuchufli-dc321d.netlify.app/?)
 
 ## Official Netflix Website
 👉 [Netflix Official Website](https://www.netflix.com/)
